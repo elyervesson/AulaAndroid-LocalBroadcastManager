@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AulaAndroid-LocalBroadcastManager</string>
+    <string name="header_main_activity">Comunicação com LocalBroadcastManager</string>
+    <string name="action_button">Iniciar Ciclo Mensagem</string>
+</resources>
